@@ -130,7 +130,7 @@
             "view" : {
                 "title" : "Mağaza Rotasyonu",
                 "line1" : "Bu, Fortnite Battle Royale için [tarih]in item shop rotasyonu.",
-                "line2" : "Bu konuda daha fazla bilgi görmek için bir kozmetike tıklayın.",
+                "line2" : "Bu konuda daha fazla bilgi görmek için bir kozmetiğe tıklayın.",
                 "today-button" : "Günün Eşya Mağazası"
             }
         },
@@ -152,7 +152,7 @@
                 "discord-button" : "Discord ile giriş yap",
                 "legacy-text" : "Alternatif olarak, 2018’den kalma bir hesabınız varsa:",
                 "twitter-button" : "Twitter ile giriş yap",
-                "privacy-text" : "Giriş yaparak, hesabımızda belirtilmiş olan ve hesabımızda belirtilen verileri kaydetmemizi kabul edersiniz [Gizlilik Politikası](/privacy)."
+                "privacy-text" : "Giriş yaparak, gizlilik politikamızda belirtildiği üzere hesabınızdaki belirtilen verileri kaydetmemizi kabul edersiniz [Gizlilik Politikası](/privacy)."
             },
             "username" : {
                 "title" : "Fnbr.co'ya Hoşgeldiniz",
